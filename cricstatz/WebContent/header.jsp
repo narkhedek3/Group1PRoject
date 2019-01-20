@@ -97,7 +97,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span data-hover="Tournamnets">Tournamnets</span>
                                 <b class="caret"></b></a>
                             <ul class="dropdown-menu agile_short_dropdown">
-                                <li><a href="register.jsp">Register</a></li>
+                                <li><a href="tournamentsRegistration.jsp">Register</a></li>
                                 <li><a href="tournaments.jsp">Tournamnets</a></li>
                             </ul>
                         </li>
