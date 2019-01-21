@@ -60,19 +60,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 footer-agileits-w3layouts">
 					<h3>Our Links</h3>
 					<ul>
-						<li><a href="index.jsp">Home</a></li>
-						<li><a href="about.jsp">About</a></li>
-						<li><a href="livescores.jsp">Live Scores</li>
-						<li><a href="tournaments.jsp">Tournamnets</a></li>
-						<li><a href="playersList.jsp">Players</li>
-						<li><a href="teamList.jsp">Teams</li>
+						<li><a href="index.htm">Home</a></li>
+						<li><a href="about.htm">About</a></li>
+						<li><a href="livescores.htm">Live Scores</li>
+						<li><a href="tournaments.htm">Tournamnets</a></li>
+						<li><a href="playersList.htm">Players</li>
+						<li><a href="teamList.htm">Teams</li>
 					</ul>
 				</div>
 				<div class="clearfix"></div>
 
 			</div>
 			<div class="agileits_w3layouts_logo logo2">
-				<h2><a href="index.jsp">CricStaz</a></h2>
+				<h2><a href="index.htm">CricStaz</a></h2>
 				<div class="agileits-social">
 					<ul>
 						<li><a href="#"><i class="fa fa-facebook"></i></a></li>

@@ -123,6 +123,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<form action="#" method="post">
 								<input type="text" name="name" placeholder="Player Name"required=""> 
 								<input type="text" name="age" placeholder="Player Age" required=""> 
+								<input type="text" name="location" placeholder="Location" required="">
 								<input type="text" name="jerseyno" placeholder="Jersey No." required=""> 
 													 
 									 <input type="submit" value="Add Player">

@@ -40,32 +40,46 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div style="display: flex">
 		<div style="flex:1">
 		</div>
-		<div>
-			<input type="text" placeholder="Player Search" id="Search">
-			<input type="button" value="Search">
+		<div style="margin-top:10px">
+			<input type="text" style="border-radius: 10px" placeholder="Player Search" id="Search">
+			
+			<button type="submit" id="show" class="btn btn-primary" value="search">Search</button>
 		</div>
 	</div>
 
 	<br />
 
 
-	<table>
-		<tr>
-			<th>Players Id</th>
-			<th>Players Name</th>
-			<th>No. of 4's</th>
-			<th>No. of 6's</th>
-			<th>Location</th>
-		</tr>
-		<tr>
-			<td>10</td>
-			<td>Maria Anders</td>
-			<td>3</td>
-			<td>5</td>
-			<td>Germany</td>
-		</tr>
+	
 
-	</table>
+	<div style="margin-left: 250px; margin-right: 250px">
+		<table class="table table-sm table-primary" style="border-top: 1px solid gray">
+			<thead>
+				<tr>
+					<th scope="col">Player ID</th>
+					<th scope="col">Name</th>
+					<th scope="col">No. of 4's</th>
+					<th scope="col">No. of 6's</th>
+					<th scope="col">Runs</th>
+					<th scope="col">Location</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th scope="row">10</th>
+					<td>Mark</td>
+					<td>12</td>
+					<td>5</td>
+					<td>50</td>
+					<td>Mumbai</td>
+				</tr>
+
+			</tbody>
+		</table>
+	</div>
+
+
+
 	<!-- Players List -->
 	<!-- footer -->
 	<jsp:include page="footer.jsp"></jsp:include>

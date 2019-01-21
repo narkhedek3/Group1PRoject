@@ -43,54 +43,43 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="agile_team_grids_top">
 				<div class="col-md-6 w3ls_banner_bottom_left w3ls_courses_left">
-				 
-					<form style="font-size:20px" >
-					<table style="align-content: center;" >
-					
- 
-   
-    <tr>
-     <td>
-     Team Name:<br>
-       <input type="text" id="Team"><br>
-       </td>
-      </tr>
-       
-       <tr>
-     <td>
-     Team EmailId:<br>
-        <input type="text" id="TeamEmail" ><br>
-      
-     </td> 
-     </tr>
-     <tr>
-     <td>
-     Password:<br>
-       <input type="password" id="Password" ><br>
-       </td>
-       </tr>
-       
-       <tr>
-       <td>
-      
-     Confirm Password:<br>
-       <input type="password" id="Repassword" ><br>
-       </td>
-       </tr>
-       <tr>
-       <td> 
-       <br>
-       <input  type="submit" value="submit">
-       </td>
-       <td>
-       <br>
-        <input  type="submit" value="submit">
-       </td>
-        </tr>
-        </table>
-       
-  </form>
-  
+
+					<form style="font-size: 20px">
+						<table style="align-content: center;">
+
+
+
+							<tr>
+								<td>Team Name:<br> <input type="text" id="Team"><br>
+								</td>
+							</tr>
+
+							<tr>
+								<td>Team EmailId:<br> <input type="text"
+									id="TeamEmail"><br>
+
+								</td>
+							</tr>
+							<tr>
+								<td>Password:<br> <input type="password" id="Password"><br>
+								</td>
+							</tr>
+
+							<tr>
+								<td>Confirm Password:<br> <input type="password"
+									id="Repassword"><br>
+								</td>
+							</tr>
+							<tr>
+								<td><br> <input type="submit" value="submit">
+								</td>
+								<td><br> <input type="submit" value="submit">
+								</td>
+							</tr>
+						</table>
+
+					</form>
+
 				</div>
 				<div class="col-md-6 agileits_courses_right">
 					<img src="images/2.jpg" alt=" " class="img-responsive" />
